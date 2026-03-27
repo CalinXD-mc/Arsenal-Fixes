@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "dev.cxd.arsenal_anchorblade_fix.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "AnchorbladeItemMixin",
+    "ExampleMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+	}
+}
