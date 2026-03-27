@@ -3,15 +3,12 @@
 	"id": "arsenal_anchorblade_fix",
 	"version": "${version}",
 	"name": "Arsenal Anchorblade Fix",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This Mod fixes some stuff about Arsenal.",
 	"authors": [
-		"Me!"
+		"CalinXD!"
 	],
-	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
-	},
-	"license": "CC0-1.0",
+	"contact": {},
+	"license": " GPL-3.0-only",
 	"icon": "assets/arsenal_anchorblade_fix/icon.png",
 	"environment": "*",
 	"entrypoints": {
